@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/khoahp/springboot-jwt.svg?style=svg)](https://circleci.com/gh/khoahp/springboot-jwt)
+
 # springboot-jwt
 ## An Example Spring Boot Application for Securing a REST API with JSON Web Token (JWT)
 
